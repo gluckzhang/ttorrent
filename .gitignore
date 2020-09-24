@@ -20,6 +20,6 @@
 *~
 *~
 
-#ignore idea workspace file and idea module files
+# Ignore idea workspace file and idea module files
 *.iml
-.idea/workspace.xml
+.idea
